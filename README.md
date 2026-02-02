@@ -1,4 +1,4 @@
-# 🚀 X-Otomasyon Pro Bot (v4.0)
+# 🚀 X-Master (v4.0)
 
 X (Twitter) işlemlerinizi saniyeler içinde otomatize eden, modern arayüze sahip, yüksek kararlılık sunan gelişmiş bir tarayıcı eklentisidir. Algoritma dostu gecikme sistemleri, insan simülasyonu ve detaylı istatistik takibi ile hesabınızı güvenle büyütmenize yardımcı olur.
 

@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "X-Otomasyon Botu",
-    "version": "3.5",
+    "name": "X-Master",
+    "version": "4.0",
     "description": "Twitter işlemlerini tarayıcı üzerinden otomatikleştirir.",
     "permissions": [
         "storage",
